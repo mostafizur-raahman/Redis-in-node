@@ -1,2 +1,2 @@
 # Redis-in-node
-Redis
+Implementing Redis into node/express
